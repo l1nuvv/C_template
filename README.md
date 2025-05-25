@@ -1,6 +1,6 @@
-# My First C Project
+# .c template project
 
-### How to build the project:
+### How to build project:
 1. Install [CLion](https://www.jetbrains.com/clion/) and [MinGW](https://github.com/niXman/mingw-builds-binaries/releases).
 2. Clone the repository:
    ```bash
